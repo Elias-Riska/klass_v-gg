@@ -1,4 +1,4 @@
-# [Github konto namn]
+# [Elias-Riska]
 
 **Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
 AI
